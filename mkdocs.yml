@@ -1,0 +1,13 @@
+site_name: NN c103 qcot S-Wave only
+repo_url: https://github.com/laphnn/nn_c103_qcotd_swave_only
+site_author: "@ckoerber"
+site_description: "Supplemental material to publication [2009.XXXXX]"
+nav:
+    - Home: index.md
+    - Stability Plots:
+        - Nucleon: nucleon.md
+        - Deuteron: deuteron.md
+        - Dineutron: dineutron.md
+theme: readthedocs
+docs_dir: doc-src
+site_dir: docs
