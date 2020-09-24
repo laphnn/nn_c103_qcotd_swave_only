@@ -1,8 +1,5 @@
 # Supporting figures and analysis code for our two-nucleon calculation with sLapH method
 
-Imgs
-
-Stability
 
 ## NN stability 4 a2 0 n2 t 5 20
 ![NN stability 4 a2 0 n2 t 5 20 plot](imgs/stability/nn_stability_4_A2_0_N2_t_5_20.svg)
