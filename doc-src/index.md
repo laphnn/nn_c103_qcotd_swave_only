@@ -1,7 +1,3 @@
-# Welcome to this web page...
+# Supporting figures and analysis code for our two-nucleon calculation with sLapH method
 
-You can also [choose a different theme](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
-
-This is markdown. Take a look at the docs folder.
-
-## Stuff ...
+Please come back soon - our web architect had an unexpected leave of absence...
