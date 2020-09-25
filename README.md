@@ -29,3 +29,5 @@ We will add more analysis code here soon.  In the meantime, the phase shift anal
 python qcotd_inverse_qsq.py
 ```
 We will add the `spline/gradient` method as well as a more sophisticated `spectrum` analysis soon.
+
+The bootstrap results of our correlator analysis are provide in `result/posterior_singlet_t05_td10_N_n2_t_5_20_R_n2_t_5_15_ratio_True.pickle_bs` and soon, the dineutron results will be added.
